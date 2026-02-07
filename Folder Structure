@@ -1,0 +1,6 @@
+sentiment-analysis/
+│── app.py
+│── model/
+│     └── sentiment_model.py
+│── requirements.txt
+│── README.md
